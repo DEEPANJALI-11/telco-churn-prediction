@@ -160,8 +160,7 @@ Python 3.13, pandas, NumPy, scikit-learn, XGBoost, SHAP, FastAPI, Pydantic, Uvic
 [LinkedIn](https://www.linkedin.com/in/deepanjali-singh-4b4749221/?isSelfProfile=true) · [GitHub](https://github.com/DEEPANJALI-11) ·deepanjalisingh089@gail.com
 
 ## License
-
-
+MIT License
 
 ## Acknowledgements
 Dataset: IBM Telco Customer Churn sample data, also available on Kaggle.
